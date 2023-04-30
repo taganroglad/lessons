@@ -1,0 +1,15 @@
+D:\dev\taski\task_14\bin\Debug\net7.0\task_14.exe
+D:\dev\taski\task_14\bin\Debug\net7.0\task_14.deps.json
+D:\dev\taski\task_14\bin\Debug\net7.0\task_14.runtimeconfig.json
+D:\dev\taski\task_14\bin\Debug\net7.0\task_14.dll
+D:\dev\taski\task_14\bin\Debug\net7.0\task_14.pdb
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.csproj.AssemblyReference.cache
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.AssemblyInfoInputs.cache
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.AssemblyInfo.cs
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.csproj.CoreCompileInputs.cache
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.dll
+D:\dev\taski\task_14\obj\Debug\net7.0\refint\task_14.dll
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.pdb
+D:\dev\taski\task_14\obj\Debug\net7.0\task_14.genruntimeconfig.cache
+D:\dev\taski\task_14\obj\Debug\net7.0\ref\task_14.dll
