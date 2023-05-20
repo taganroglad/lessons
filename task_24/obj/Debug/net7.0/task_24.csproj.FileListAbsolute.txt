@@ -1,0 +1,15 @@
+D:\dev\lessons\task_24\bin\Debug\net7.0\task_24.exe
+D:\dev\lessons\task_24\bin\Debug\net7.0\task_24.deps.json
+D:\dev\lessons\task_24\bin\Debug\net7.0\task_24.runtimeconfig.json
+D:\dev\lessons\task_24\bin\Debug\net7.0\task_24.dll
+D:\dev\lessons\task_24\bin\Debug\net7.0\task_24.pdb
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.csproj.AssemblyReference.cache
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.AssemblyInfoInputs.cache
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.AssemblyInfo.cs
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.csproj.CoreCompileInputs.cache
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.dll
+D:\dev\lessons\task_24\obj\Debug\net7.0\refint\task_24.dll
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.pdb
+D:\dev\lessons\task_24\obj\Debug\net7.0\task_24.genruntimeconfig.cache
+D:\dev\lessons\task_24\obj\Debug\net7.0\ref\task_24.dll
