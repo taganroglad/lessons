@@ -6,9 +6,20 @@
 
 int number = ReadInt("insert the number:   ");
 
-int factorial = 1;
-for (int i = 1;  i <= number; i++)
+//int factorial = 1;
+//for (int i = 1;  i <= number; i++)
+//{
+  //  factorial = factorial * i;
+//}
+//System.Console.WriteLine(factorial);
+
+int factorial(int n)
 {
-    factorial = factorial * i;
+    int factorial = 1;
+    for (int i = 1;  i <= number; i++)
+    {
+      factorial = factorial * i;
+    }
+   return factorial;
 }
-System.Console.WriteLine(factorial);
+System.Console.WriteLine(factorial(number));
