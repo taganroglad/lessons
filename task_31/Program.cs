@@ -2,32 +2,48 @@
 // Найдите сумму отрицательных и положительных элементов массива.
 // Например, в массиве [3,9,-8,1,0,-7,2,-1,8,-3,-1,6] сумма положительных чисел равна 29, сумма отрицательных равна -20.
 
-
-int Fillarray(int size, int leftrange, int rightrange)
-
-int[] array = new int[12];
-Random rand  = new Random();
-
-for (int i = 0; i < array.Length; i++)
+int[] FillArray(int size, int leftRange, int rightRange)
 {
-    array[i] = rand.Next(-9, 10);
+    int[] tempArray = new int[size];
+    Random rand = new Random();
+
+    for (int i = 0; i < size; i++)
+    {
+        tempArray[i] = rand.Next(leftRange, rightRange + 1);
+    }
+
+    return tempArray;
 }
-System.Console.WriteLine(string.Join(", ", array)); 
 
-
-int countPositive  = 0;
-int sumNegative = 0;
-
-for (int i = 0; i < array.Length; i++)
+void PrintArray(int[] arr)
 {
-    if (array[i] > 0)
+    System.Console.WriteLine("[" + string.Join(", ", arr) + "]");
+}
+
+void SumNegativeAndPositive(int[] array, out int sumNegative, out int sumPositive)
+{
+    sumNegative = 0;
+    sumPositive = 0;
+
+    for (int i = 0; i < array.Length; i++)
     {
-        sumNegative += array[i];
-    }
-    else
-    {
-        sumNegative += array[i];
+        if (array[i] > 0)
+        {
+            sumPositive += array[i];
+        }
+        else
+        {
+            sumNegative += array[i];
+        }
     }
 }
-System.Console.WriteLine($"Sum of positives: {countPositive}));
-Sys
+
+
+int[] array = FillArray(12, -9, 9);
+
+PrintArray(array);
+
+SumNegativeAndPositive(array, out int sumN, out int sumP);
+
+System.Console.WriteLine($"sum of positives: {sumP}");
+System.Console.WriteLine($"sum of negatives: {sumN}");
