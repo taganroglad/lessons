@@ -1,0 +1,15 @@
+D:\dev\lessons\task_29\bin\Debug\net7.0\task_29.exe
+D:\dev\lessons\task_29\bin\Debug\net7.0\task_29.deps.json
+D:\dev\lessons\task_29\bin\Debug\net7.0\task_29.runtimeconfig.json
+D:\dev\lessons\task_29\bin\Debug\net7.0\task_29.dll
+D:\dev\lessons\task_29\bin\Debug\net7.0\task_29.pdb
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.csproj.AssemblyReference.cache
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.AssemblyInfoInputs.cache
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.AssemblyInfo.cs
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.csproj.CoreCompileInputs.cache
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.dll
+D:\dev\lessons\task_29\obj\Debug\net7.0\refint\task_29.dll
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.pdb
+D:\dev\lessons\task_29\obj\Debug\net7.0\task_29.genruntimeconfig.cache
+D:\dev\lessons\task_29\obj\Debug\net7.0\ref\task_29.dll
