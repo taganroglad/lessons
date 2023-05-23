@@ -1,2 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 25: Напишите цикл, который принимает на вход два числа (A и B)
+// и возводит число A в натуральную степень B.
+
+//3, 5-> 243(3⁵)
+//2, 4-> 16
+
+int ReadInt(string text)
+{
+    System.Console.WriteLine(text);
+    return Convert.ToInt32(Console.ReadLine());
+}
+
+int number = ReadInt("insert the number:   ");
+
+//int factorial = 1;
+//for (int i = 1;  i <= number; i++)
+//{
+//  factorial = factorial * i;
+//}
+//System.Console.WriteLine(factorial);
+
+int factorial(int n)
+{
+    int factorial = 1;
+    for (int i = 1; i <= number; i++)
+    {
+        factorial = factorial * i;
+    }
+    return factorial;
+}
+System.Console.WriteLine(factorial(number));
