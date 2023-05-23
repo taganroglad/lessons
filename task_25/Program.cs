@@ -3,29 +3,21 @@
 
 //3, 5-> 243(3⁵)
 //2, 4-> 16
-
-int ReadInt(string text)
+int Exponentiation(int numberA, int numberB)
 {
-    System.Console.WriteLine(text);
-    return Convert.ToInt32(Console.ReadLine());
-}
-
-int number = ReadInt("insert the number:   ");
-
-//int factorial = 1;
-//for (int i = 1;  i <= number; i++)
-//{
-//  factorial = factorial * i;
-//}
-//System.Console.WriteLine(factorial);
-
-int factorial(int n)
-{
-    int factorial = 1;
-    for (int i = 1; i <= number; i++)
+    int result = 1;
+    for (int i = 1; i <= numberB; i++)
     {
-        factorial = factorial * i;
+        result = result * numberA;
     }
-    return factorial;
+    // int result = Math.Pow(numberA, numberB);
+    return result;
 }
-System.Console.WriteLine(factorial(number));
+
+Console.Write("print the first digit: ");
+int numberA = Convert.ToInt32(Console.ReadLine());
+Console.Write("print the second digit: ");
+int numberB = Convert.ToInt32(Console.ReadLine());
+
+int exponentiation = Exponentiation(numberA, numberB);
+Console.WriteLine("answer: " + exponentiation);
