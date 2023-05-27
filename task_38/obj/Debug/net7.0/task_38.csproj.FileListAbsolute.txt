@@ -1,0 +1,15 @@
+D:\dev\lessons\task_38\bin\Debug\net7.0\task_38.exe
+D:\dev\lessons\task_38\bin\Debug\net7.0\task_38.deps.json
+D:\dev\lessons\task_38\bin\Debug\net7.0\task_38.runtimeconfig.json
+D:\dev\lessons\task_38\bin\Debug\net7.0\task_38.dll
+D:\dev\lessons\task_38\bin\Debug\net7.0\task_38.pdb
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.csproj.AssemblyReference.cache
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.AssemblyInfoInputs.cache
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.AssemblyInfo.cs
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.csproj.CoreCompileInputs.cache
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.dll
+D:\dev\lessons\task_38\obj\Debug\net7.0\refint\task_38.dll
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.pdb
+D:\dev\lessons\task_38\obj\Debug\net7.0\task_38.genruntimeconfig.cache
+D:\dev\lessons\task_38\obj\Debug\net7.0\ref\task_38.dll
