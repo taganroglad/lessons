@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\lessons\\Previous_tasks\\sharptest\\sharptest.csproj",
-      "projectName": "sharptest",
-      "projectPath": "D:\\dev\\lessons\\Previous_tasks\\sharptest\\sharptest.csproj",
+      "projectUniqueName": "D:\\dev\\lessons\\Previous_tasks\\test2\\test2.csproj",
+      "projectName": "test2",
+      "projectPath": "D:\\dev\\lessons\\Previous_tasks\\test2\\test2.csproj",
       "packagesPath": "C:\\Users\\tagan\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\lessons\\Previous_tasks\\sharptest\\obj\\",
+      "outputPath": "D:\\dev\\lessons\\Previous_tasks\\test2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tagan\\AppData\\Roaming\\NuGet\\NuGet.Config",

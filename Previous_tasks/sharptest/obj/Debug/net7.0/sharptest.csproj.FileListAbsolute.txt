@@ -1,0 +1,15 @@
+D:\dev\lessons\Previous_tasks\sharptest\bin\Debug\net7.0\sharptest.exe
+D:\dev\lessons\Previous_tasks\sharptest\bin\Debug\net7.0\sharptest.deps.json
+D:\dev\lessons\Previous_tasks\sharptest\bin\Debug\net7.0\sharptest.runtimeconfig.json
+D:\dev\lessons\Previous_tasks\sharptest\bin\Debug\net7.0\sharptest.dll
+D:\dev\lessons\Previous_tasks\sharptest\bin\Debug\net7.0\sharptest.pdb
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.csproj.AssemblyReference.cache
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.AssemblyInfoInputs.cache
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.AssemblyInfo.cs
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.csproj.CoreCompileInputs.cache
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.dll
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\refint\sharptest.dll
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.pdb
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\sharptest.genruntimeconfig.cache
+D:\dev\lessons\Previous_tasks\sharptest\obj\Debug\net7.0\ref\sharptest.dll
