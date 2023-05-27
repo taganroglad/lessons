@@ -1,0 +1,15 @@
+D:\dev\lessons\task_34\bin\Debug\net7.0\task_34.exe
+D:\dev\lessons\task_34\bin\Debug\net7.0\task_34.deps.json
+D:\dev\lessons\task_34\bin\Debug\net7.0\task_34.runtimeconfig.json
+D:\dev\lessons\task_34\bin\Debug\net7.0\task_34.dll
+D:\dev\lessons\task_34\bin\Debug\net7.0\task_34.pdb
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.csproj.AssemblyReference.cache
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.AssemblyInfoInputs.cache
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.AssemblyInfo.cs
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.csproj.CoreCompileInputs.cache
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.dll
+D:\dev\lessons\task_34\obj\Debug\net7.0\refint\task_34.dll
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.pdb
+D:\dev\lessons\task_34\obj\Debug\net7.0\task_34.genruntimeconfig.cache
+D:\dev\lessons\task_34\obj\Debug\net7.0\ref\task_34.dll
