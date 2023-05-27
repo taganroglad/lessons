@@ -1,0 +1,5 @@
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.csproj.AssemblyReference.cache
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.AssemblyInfoInputs.cache
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.AssemblyInfo.cs
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.csproj.CoreCompileInputs.cache
