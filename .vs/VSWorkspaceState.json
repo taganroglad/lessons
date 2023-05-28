@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\task_38"
+    "\\Previous_tasks",
+    "\\Previous_tasks\\for_13",
+    "\\Previous_tasks\\sharptest",
+    "\\Previous_tasks\\test2"
   ],
-  "SelectedNode": "\\task_38\\Program.cs",
+  "SelectedNode": "\\Previous_tasks\\for_13\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
