@@ -1,0 +1,15 @@
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.csproj.AssemblyReference.cache
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.AssemblyInfoInputs.cache
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.AssemblyInfo.cs
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.csproj.CoreCompileInputs.cache
+D:\dev\lessons\Previous_tasks\for_15\bin\Debug\net7.0\for_15.exe
+D:\dev\lessons\Previous_tasks\for_15\bin\Debug\net7.0\for_15.deps.json
+D:\dev\lessons\Previous_tasks\for_15\bin\Debug\net7.0\for_15.runtimeconfig.json
+D:\dev\lessons\Previous_tasks\for_15\bin\Debug\net7.0\for_15.dll
+D:\dev\lessons\Previous_tasks\for_15\bin\Debug\net7.0\for_15.pdb
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.dll
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\refint\for_15.dll
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.pdb
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\for_15.genruntimeconfig.cache
+D:\dev\lessons\Previous_tasks\for_15\obj\Debug\net7.0\ref\for_15.dll
