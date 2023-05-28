@@ -3,3 +3,13 @@ D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.GeneratedMSBuildEdi
 D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.AssemblyInfoInputs.cache
 D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.AssemblyInfo.cs
 D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.csproj.CoreCompileInputs.cache
+D:\dev\lessons\Previous_tasks\for_13\bin\Debug\net7.0\for_13.exe
+D:\dev\lessons\Previous_tasks\for_13\bin\Debug\net7.0\for_13.deps.json
+D:\dev\lessons\Previous_tasks\for_13\bin\Debug\net7.0\for_13.runtimeconfig.json
+D:\dev\lessons\Previous_tasks\for_13\bin\Debug\net7.0\for_13.dll
+D:\dev\lessons\Previous_tasks\for_13\bin\Debug\net7.0\for_13.pdb
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.dll
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\refint\for_13.dll
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.pdb
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\for_13.genruntimeconfig.cache
+D:\dev\lessons\Previous_tasks\for_13\obj\Debug\net7.0\ref\for_13.dll
