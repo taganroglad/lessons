@@ -1,0 +1,15 @@
+D:\dev\lessons\Previous_tasks\task_48\bin\Debug\net7.0\task_48.exe
+D:\dev\lessons\Previous_tasks\task_48\bin\Debug\net7.0\task_48.deps.json
+D:\dev\lessons\Previous_tasks\task_48\bin\Debug\net7.0\task_48.runtimeconfig.json
+D:\dev\lessons\Previous_tasks\task_48\bin\Debug\net7.0\task_48.dll
+D:\dev\lessons\Previous_tasks\task_48\bin\Debug\net7.0\task_48.pdb
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.csproj.AssemblyReference.cache
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.AssemblyInfoInputs.cache
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.AssemblyInfo.cs
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.csproj.CoreCompileInputs.cache
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.dll
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\refint\task_48.dll
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.pdb
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\task_48.genruntimeconfig.cache
+D:\dev\lessons\Previous_tasks\task_48\obj\Debug\net7.0\ref\task_48.dll
