@@ -1,0 +1,15 @@
+D:\dev\lessons\Previous_tasks\for_19\bin\Debug\net7.0\for_19.exe
+D:\dev\lessons\Previous_tasks\for_19\bin\Debug\net7.0\for_19.deps.json
+D:\dev\lessons\Previous_tasks\for_19\bin\Debug\net7.0\for_19.runtimeconfig.json
+D:\dev\lessons\Previous_tasks\for_19\bin\Debug\net7.0\for_19.dll
+D:\dev\lessons\Previous_tasks\for_19\bin\Debug\net7.0\for_19.pdb
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.csproj.AssemblyReference.cache
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.AssemblyInfoInputs.cache
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.AssemblyInfo.cs
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.csproj.CoreCompileInputs.cache
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.dll
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\refint\for_19.dll
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.pdb
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\for_19.genruntimeconfig.cache
+D:\dev\lessons\Previous_tasks\for_19\obj\Debug\net7.0\ref\for_19.dll
