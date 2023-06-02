@@ -1,0 +1,15 @@
+D:\dev\lessons\butkamp\2nd_lesson\bin\Debug\net7.0\2nd_lesson.exe
+D:\dev\lessons\butkamp\2nd_lesson\bin\Debug\net7.0\2nd_lesson.deps.json
+D:\dev\lessons\butkamp\2nd_lesson\bin\Debug\net7.0\2nd_lesson.runtimeconfig.json
+D:\dev\lessons\butkamp\2nd_lesson\bin\Debug\net7.0\2nd_lesson.dll
+D:\dev\lessons\butkamp\2nd_lesson\bin\Debug\net7.0\2nd_lesson.pdb
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.csproj.AssemblyReference.cache
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.AssemblyInfoInputs.cache
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.AssemblyInfo.cs
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.csproj.CoreCompileInputs.cache
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.dll
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\refint\2nd_lesson.dll
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.pdb
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\2nd_lesson.genruntimeconfig.cache
+D:\dev\lessons\butkamp\2nd_lesson\obj\Debug\net7.0\ref\2nd_lesson.dll
