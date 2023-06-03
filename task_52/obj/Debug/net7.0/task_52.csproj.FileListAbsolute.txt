@@ -1,0 +1,15 @@
+D:\dev\lessons\task_52\bin\Debug\net7.0\task_52.exe
+D:\dev\lessons\task_52\bin\Debug\net7.0\task_52.deps.json
+D:\dev\lessons\task_52\bin\Debug\net7.0\task_52.runtimeconfig.json
+D:\dev\lessons\task_52\bin\Debug\net7.0\task_52.dll
+D:\dev\lessons\task_52\bin\Debug\net7.0\task_52.pdb
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.csproj.AssemblyReference.cache
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.AssemblyInfoInputs.cache
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.AssemblyInfo.cs
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.csproj.CoreCompileInputs.cache
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.dll
+D:\dev\lessons\task_52\obj\Debug\net7.0\refint\task_52.dll
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.pdb
+D:\dev\lessons\task_52\obj\Debug\net7.0\task_52.genruntimeconfig.cache
+D:\dev\lessons\task_52\obj\Debug\net7.0\ref\task_52.dll
