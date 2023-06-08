@@ -1,0 +1,15 @@
+D:\dev\lessons\tasl_66\bin\Debug\net7.0\tasl_66.exe
+D:\dev\lessons\tasl_66\bin\Debug\net7.0\tasl_66.deps.json
+D:\dev\lessons\tasl_66\bin\Debug\net7.0\tasl_66.runtimeconfig.json
+D:\dev\lessons\tasl_66\bin\Debug\net7.0\tasl_66.dll
+D:\dev\lessons\tasl_66\bin\Debug\net7.0\tasl_66.pdb
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.csproj.AssemblyReference.cache
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.AssemblyInfoInputs.cache
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.AssemblyInfo.cs
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.csproj.CoreCompileInputs.cache
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.dll
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\refint\tasl_66.dll
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.pdb
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\tasl_66.genruntimeconfig.cache
+D:\dev\lessons\tasl_66\obj\Debug\net7.0\ref\tasl_66.dll
