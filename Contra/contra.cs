@@ -27,3 +27,6 @@ class Program
                 count++;
             }
         }
+
+        string[] resultArray = new string[count];
+        int resultIndex = 0;
