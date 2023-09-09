@@ -1,0 +1,15 @@
+D:\dev\lessons\Contra\bin\Debug\net7.0\Contra.exe
+D:\dev\lessons\Contra\bin\Debug\net7.0\Contra.deps.json
+D:\dev\lessons\Contra\bin\Debug\net7.0\Contra.runtimeconfig.json
+D:\dev\lessons\Contra\bin\Debug\net7.0\Contra.dll
+D:\dev\lessons\Contra\bin\Debug\net7.0\Contra.pdb
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.csproj.AssemblyReference.cache
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.AssemblyInfoInputs.cache
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.AssemblyInfo.cs
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.csproj.CoreCompileInputs.cache
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.dll
+D:\dev\lessons\Contra\obj\Debug\net7.0\refint\Contra.dll
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.pdb
+D:\dev\lessons\Contra\obj\Debug\net7.0\Contra.genruntimeconfig.cache
+D:\dev\lessons\Contra\obj\Debug\net7.0\ref\Contra.dll
