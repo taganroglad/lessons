@@ -30,3 +30,19 @@ class Program
 
         string[] resultArray = new string[count];
         int resultIndex = 0;
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= 3)
+            {
+                resultArray[resultIndex] = inputArray[i];
+                resultIndex++;
+            }
+        }
+
+        return resultArray;
+    }
+}
+
+
+
+
