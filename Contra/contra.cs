@@ -9,3 +9,10 @@ class Program
 
         
         string[] filteredArray = FilterStrings(inputArray);
+        
+        Console.WriteLine("Отфильтрованный массив строк:");
+        foreach (string str in filteredArray)
+        {
+            Console.WriteLine(str);
+        }
+    }
