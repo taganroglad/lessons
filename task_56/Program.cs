@@ -2,42 +2,48 @@
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        
-        int[,] matrix = {
-            { 1, 4, 7, 2 },
-            { 5, 9, 2, 3 },
-            { 8, 4, 2, 4 },
-            { 5, 2, 6, 7 }
-        };
+        // Введите или задайте исходный массив строк
+        string[] inputArray = { "abc", "defg", "hi", "jklmn" };
 
-        int minRowIndex = FindRowWithMinSum(matrix);
+        // Вызываем метод для фильтрации строк
+        string[] filteredArray = FilterStrings(inputArray);
 
-        Console.WriteLine("The row with the smallest sum of elements: " + (minRowIndex + 1));
+        // Выводим результат на экран
+        Console.WriteLine("Отфильтрованный массив строк:");
+        foreach (string str in filteredArray)
+        {
+            Console.WriteLine(str);
+        }
     }
 
-    static int FindRowWithMinSum(int[,] matrix)
+    static string[] FilterStrings(string[] inputArray)
     {
-        int minSum = int.MaxValue;
-        int minRowIndex = -1;
-
-        for (int i = 0; i < matrix.GetLength(0); i++)
+        int count = 0;
+        // Определяем количество строк, которые удовлетворяют условию (длина <= 3 символа)
+        for (int i = 0; i < inputArray.Length; i++)
         {
-            int rowSum = 0;
-
-            for (int j = 0; j < matrix.GetLength(1); j++)
+            if (inputArray[i].Length <= 3)
             {
-                rowSum += matrix[i, j];
-            }
-
-            if (rowSum < minSum)
-            {
-                minSum = rowSum;
-                minRowIndex = i;
+                count++;
             }
         }
 
-        return minRowIndex;
+        // Создаем новый массив для отфильтрованных строк
+        string[] resultArray = new string[count];
+        int resultIndex = 0;
+
+        // Заполняем новый массив отфильтрованными строками
+        for (int i = 0; i < inputArray.Length; i++)
+        {
+            if (inputArray[i].Length <= 3)
+            {
+                resultArray[resultIndex] = inputArray[i];
+                resultIndex++;
+            }
+        }
+
+        return resultArray;
     }
 }
