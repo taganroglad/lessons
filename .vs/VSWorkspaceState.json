@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\butkamp\\2nd_lesson",
-    "\\task_68"
+    "\\butkamp",
+    "\\butkamp\\1st_lesson",
+    "\\task_60",
+    "\\task_62"
   ],
-  "SelectedNode": "\\task_68\\Program.cs",
+  "SelectedNode": "\\butkamp\\1st_lesson\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

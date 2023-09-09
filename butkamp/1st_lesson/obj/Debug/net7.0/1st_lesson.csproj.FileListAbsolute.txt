@@ -1,0 +1,5 @@
+D:\dev\lessons\butkamp\1st_lesson\obj\Debug\net7.0\1st_lesson.csproj.AssemblyReference.cache
+D:\dev\lessons\butkamp\1st_lesson\obj\Debug\net7.0\1st_lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\lessons\butkamp\1st_lesson\obj\Debug\net7.0\1st_lesson.AssemblyInfoInputs.cache
+D:\dev\lessons\butkamp\1st_lesson\obj\Debug\net7.0\1st_lesson.AssemblyInfo.cs
+D:\dev\lessons\butkamp\1st_lesson\obj\Debug\net7.0\1st_lesson.csproj.CoreCompileInputs.cache
